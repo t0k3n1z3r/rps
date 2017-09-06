@@ -1,4 +1,4 @@
-# RPS game implementation [![Build Status](https://travis-ci.org/t0k3n1z3r/ts-proc.svg?branch=master)](https://travis-ci.org/t0k3n1z3r/rps)
+# RPS game implementation [![Build Status](https://travis-ci.org/t0k3n1z3r/rps.svg?branch=master)](https://travis-ci.org/t0k3n1z3r/rps)
 
 ## Description
 This project implements primitive Rock-Scissors-Paper playground
