@@ -8,6 +8,7 @@
 */
 
 #include <iostream>
+#include <stdexcept>
 
 #include "playground.h"
 #include "player.h"
